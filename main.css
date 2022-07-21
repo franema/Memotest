@@ -1,0 +1,26 @@
+#boton {
+    width: 300px;
+    height: 100px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    cursor: pointer
+}
+
+#reloj {
+    width: 120px;
+    padding: left 12px;
+}
+
+#oculto {
+    opacity: 0;
+    cursor: default;
+}
+
+strong {
+    font-size: large;
+    justify-content: center;
+    align-items: center;
+}
